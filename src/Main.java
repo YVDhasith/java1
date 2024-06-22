@@ -27,5 +27,14 @@ public class Main {
         System.out.println("Length is: " + length);
         System.out.println("Width is: " + width);
         System.out.println("Area of the rectangle is: " + area);
+
+        System.out.println("Length is: " + length);
+        System.out.println("Width is: " + width);
+        System.out.println("Area of the rectangle is: " + area);
+        System.out.println("Length is: " + length);
+        System.out.println("Width is: " + width);
+        System.out.println("Area of the rectangle is: " + area);System.out.println("Length is: " + length);
+        System.out.println("Width is: " + width);
+        System.out.println("Area of the rectangle is: " + area);
     }
 }
