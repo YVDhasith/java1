@@ -8,6 +8,7 @@ public class Main {
         char studentGrade = 'B';
 
         // Print variables
+        //add comment
         System.out.println("Student name: " + studentName);
         System.out.println("Student id: " + studentID);
         System.out.println("Student age: " + studentAge);
